@@ -1,6 +1,6 @@
 # 🛡️ Let'sDefend Writeups
 
-Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**.
+Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**. Para realizar todos los retos de LetsDefend, voy a estar utilizando el Sistema Operativo **[REMnux](https://remnux.org/)** el cual se utiliza para Ingeniería reversa(reverse-engineering) y Analisis de Malware.
 
 
 

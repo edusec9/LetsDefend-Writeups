@@ -1,4 +1,4 @@
-# 🛡️ Let'sDefend Writeups: Laboratorios de Ciberseguridad  
+# 🛡️ Let'sDefend Writeups
 
 Este repositorio contiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**. Aquí encontrarás análisis detallados, procedimientos de respuesta a incidentes y estrategias de investigación aplicadas en escenarios reales.
 

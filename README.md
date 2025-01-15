@@ -20,7 +20,7 @@ Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let
 
 
 
-## 📝 **Lista de Writeups**
+## 📝 **Writeups**
 
 ### **Incident Response**
 

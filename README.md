@@ -4,7 +4,7 @@ Este repositorio contiene mis **writeups** de los laboratorios prácticos de **[
 
 ---
 
-## 🎯 **Objetivo del Proyecto**
+## 🎯 **Objetivo del Repositorio**
 - Documentar y compartir conocimientos adquiridos completando laboratorios de ciberseguridad defensiva.
 - Mostrar el flujo de trabajo típico de un analista SOC.
 - Proveer recursos para aprender y mejorar habilidades técnicas en áreas como **respuesta a incidentes**, **análisis de logs**, y **detección de amenazas**.

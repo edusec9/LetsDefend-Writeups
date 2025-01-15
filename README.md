@@ -1,15 +1,15 @@
 # 🛡️ Let'sDefend Writeups
 
-Este repositorio contiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**. Aquí encontrarás análisis detallados, procedimientos de respuesta a incidentes y estrategias de investigación aplicadas en escenarios reales.
+Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**
 
----
 
-## 🎯 **Objetivo del Repositorio**
-- Documentar y compartir conocimientos adquiridos completando laboratorios de ciberseguridad defensiva.
-- Mostrar el flujo de trabajo típico de un analista SOC.
-- Proveer recursos para aprender y mejorar habilidades técnicas en áreas como **respuesta a incidentes**, **análisis de logs**, y **detección de amenazas**.
 
----
+## 🎯 Propósito del Repositorio
+- Documentar y compartir el conocimiento adquirido durante la realización de laboratorios enfocados en el Blue Team.
+- Mostrar las prácticas a las que se tiene que enfrentar un SOC.
+- Desarrollarme en áreas como el analisis de malware, respuesta a incidentes y monitorización de logs.
+
+
 
 ## 📚 **Laboratorios**
 
@@ -18,9 +18,7 @@ Este repositorio contiene mis **writeups** de los laboratorios prácticos de **[
    - Investigación de malware.
    - Malicious Document Analysis
 
-*(Más categorías y writeups se agregarán con el tiempo.)*
 
----
 
 ## 📝 **Lista de Writeups**
 

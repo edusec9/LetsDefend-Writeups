@@ -1,6 +1,6 @@
 # 🛡️ Let'sDefend Writeups
 
-Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**
+Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**.
 
 
 

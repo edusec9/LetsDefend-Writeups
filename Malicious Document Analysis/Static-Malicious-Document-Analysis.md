@@ -27,7 +27,3 @@ Para completar la el laboratorio se encuentran las siguientes preguntas:
 ![image](https://github.com/user-attachments/assets/5fc720fd-0251-4e62-888f-9942853a6a7e)
 
 Se pueden completar mediante lo visto en este Writeup.
-
-**Herramientas utilizadas:**
-- VirusTotal
-- exiftool

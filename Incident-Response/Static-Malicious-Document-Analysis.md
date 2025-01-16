@@ -1,3 +1,7 @@
+## Herramientas utilizadas:
+- VirusTotal
+- exiftool
+
 Hay que analizar los siguientes archivos:
 
 ![image](https://github.com/user-attachments/assets/8dc23c1c-7968-4273-8f2b-d3f62130abca)

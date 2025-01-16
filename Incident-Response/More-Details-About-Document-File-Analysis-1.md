@@ -32,7 +32,7 @@ Comando utilizado: `olevba baddoc.doc`
 >   
 > ![image](https://github.com/user-attachments/assets/b0daf486-ac62-4e2f-b2bd-741143904213)
 
-> - `Base64 Strings`,`Hex strings` y `Chr` es una manera de enmascarar codigo para que los macros no sean detectados y que no se detecte el codigo malicioso para que sea ofuscado.
+> - `Base64 Strings`,`Hex strings` y `Chr` es una manera de ofuscar el codigo para que no sea detectado como malware.
 >
 > ![image](https://github.com/user-attachments/assets/7239f99b-e906-41f4-a5b7-be6e83baf83a)
 >

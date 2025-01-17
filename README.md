@@ -1,8 +1,10 @@
-#  LetsDefend Writeups (voy a seguir publicando desde enero a marzo 😺)
+#  LetsDefend Writeups (voy a seguir publicando desde enero a marzo)
+
 ![image](https://github.com/user-attachments/assets/8f9b4859-dd2b-4a4c-aa04-c0d9031894f5)
 
-Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**. Para realizar todos los retos de LetsDefend, voy a estar utilizando el Sistema Operativo **[REMnux](https://remnux.org/)** el cual se utiliza para Ingeniería reversa(reverse-engineering) y Analisis de Malware.
 
+
+Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let'sDefend](https://letsdefend.io/)**. Para realizar todos los retos de LetsDefend, voy a estar utilizando el Sistema Operativo **[REMnux](https://remnux.org/)** el cual se utiliza para Ingeniería reversa(reverse-engineering) y Analisis de Malware.
 
 
 ##  Propósito del Repositorio
@@ -11,9 +13,10 @@ Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let
 - Desarrollarme en áreas como el analisis de malware, respuesta a incidentes y monitorización de logs.
 
 
+
+
 ## **Writeups**
 
-### **Incident Response**
 
 | Path                              | Laboratorio                                 |Enlace al Writeup                                                          |
 |-----------------------------------|---------------------------------------------|---------------------------------------------------------------------------|

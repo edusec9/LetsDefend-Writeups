@@ -4,5 +4,6 @@
 ## Does the file "/root/Desktop/QuestionFiles/PO-465514-180820.doc" contain a VBA macro?
 Usando el comando `oleid PO-465514-180820.doc` podemos ver que el archivo contiene VBA Macros
 
-![image](https://github.com/user-attachments/assets/e925be14-044a-49da-9150-dcc6b4a3f88d)
+![image](https://github.com/user-attachments/assets/3d888628-4c61-4049-b85b-1a28a2d03270)
+
 

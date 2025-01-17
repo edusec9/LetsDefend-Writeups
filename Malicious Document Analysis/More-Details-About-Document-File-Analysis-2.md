@@ -52,4 +52,6 @@ IOC signfica Indicator of Compromise (Indicador de Compromiso). Son datos que ay
 
 ---
 
+## Analisis Avanzado
 
+Luego de responder todas las preguntas del laboratorio me gustaria analizar profundamente el codigo de forma clara y deofuscado. Para eso lo primero que hay que hacer es pasar la extension del archivo de `.doc` a `.vba` para anlizarlo en **Visual Studio Code**. Hay que utilizar el comando: `olevba PO-465514-180820.doc > PO.vba`

@@ -1,4 +1,4 @@
-#  LetsDefend Writeups (voy a seguir publicando desde enero a marzo)
+#  LetsDefend Writeups (En progreso... ♾️)
 
 ![image](https://github.com/user-attachments/assets/8f9b4859-dd2b-4a4c-aa04-c0d9031894f5)
 

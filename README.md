@@ -21,4 +21,5 @@ Este repositorio tiene mis **writeups** de los laboratorios prácticos de **[Let
 | Path                              | Laboratorio                                 |Enlace al Writeup                                                          |
 |-----------------------------------|---------------------------------------------|---------------------------------------------------------------------------|
 | Malicious Document Analysis       | Static Malicious Document Analysis          |[Ver Writeup](Incident-Response/Static-Malicious-Document-Analysis.md)     |
-|                                   | More Details About Document File Analysis 1 |[Ver Writeup](Labs/Incident-Response/malware-investigation.md)             |
+|                                   | More Details About Document File Analysis 1 |[Ver Writeup](More-Details-About-Document-File-Analysis-1.md)              |
+|                                   | More Details About Document File Analysis 2 |[Ver Writeup](More-Details-About-Document-File-Analysis-2.md)              |

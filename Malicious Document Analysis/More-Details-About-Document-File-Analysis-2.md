@@ -52,8 +52,30 @@ IOC signfica Indicator of Compromise (Indicador de Compromiso). Son datos que ay
 
 ---
 
-## Analisis Avanzado
+## Analisis Avanzado de `baddoc.doc`
 
 Luego de responder todas las preguntas del laboratorio me gustaria analizar profundamente el codigo de forma clara y deofuscado. Para eso lo primero que hay que hacer es pasar la extension del archivo de `.doc` a `.vba` para anlizarlo en **Visual Studio Code**. Hay que utilizar el comando: `olevba baddoc.doc > baddoc.vba`. Luego para deofuscar el codigo y que sea totalmente legible hay que utilizar el siguiente comando: `olevba --deobf --reveal baddoc.vba > baddoc-deofuscado.vba`. Luego en **Visual Studio** abrimos el archivo `baddoc-deofuscado.vba`.
+
+Lo mas importante a la hora de analizar es encontrar IOCs y analizarlos.
+Lista de IOCs encontrados:
+
+![image](https://github.com/user-attachments/assets/62a7e187-9e13-4dbc-b847-389a9e35fd98)
+
+![image](https://github.com/user-attachments/assets/b63ea815-65bc-4d36-9ecf-d765e06f964f)
+
+![image](https://github.com/user-attachments/assets/1b6d028a-251e-48aa-a79c-5469e139d9ac)
+
+![image](https://github.com/user-attachments/assets/b8cf6cb2-c8ce-475f-bd51-674eb28e037f)
+
+
+
+
+
+
+
+
+
+
+
 
 

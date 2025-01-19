@@ -42,11 +42,13 @@ Usando el comando `exiftool PO-465514-180820.doc` podemos saber la ultima hora e
 
 ---
 **How many IOCs are in the "Siparis_17.xls" file according to the Olevba tool?**
+
 IOC signfica Indicator of Compromise (Indicador de Compromiso). Son datos que ayudan a los analistas a identificar actividades sospechosas o maliciosas en un sistema o red. Pueden ser Direcciones IP maliciosas,C2 (command & control), dominios sospechosos y archivos maliciosos. 
 
 ![image](https://github.com/user-attachments/assets/d0857d1d-d230-4af6-8237-a5ef383fc7ca)
 
 **En este caso hay 2 IOCs**
+
 - `http://hocoso.mobi` URL malicioso
 - `6LeGwKmrm.jar` Archivo ejecutable
 

@@ -58,7 +58,7 @@ Si entramos a la primera direccion IP, podemos ver mucha informacion, como los d
 
 **The file PO-465514-180820.doc is trying to make a request to a domain ending with ".kz". What is this domain?**
 
-En el apartado de **Network Behavior** se ve la conexion que hgace con el dominio `www.msbc.kz`.
+En el apartado de **Network Behavior** se ve la conexion que hace con el dominio `www.msbc.kz`.
 
 ![image](https://github.com/user-attachments/assets/d2a619a3-b367-4093-83bf-440e08d98b82)
 

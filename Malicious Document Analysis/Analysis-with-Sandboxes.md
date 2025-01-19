@@ -34,7 +34,7 @@ Si entramos a la primera direccion IP, podemos ver mucha informacion, como los d
 >  
 > ![image](https://github.com/user-attachments/assets/32d51644-bba6-4000-ab91-f20dc2f9c110)
 
->- Dettales del Archivo
+>- Detalles del Archivo
 >  
 > ![image](https://github.com/user-attachments/assets/9ed6548e-31f8-4751-afc6-c7a44fb95456)
 

@@ -1,4 +1,4 @@
-#  LetsDefend Writeups (En progreso... ♾️)
+#  LetsDefend Writeups
 
 ![image](https://github.com/user-attachments/assets/8f9b4859-dd2b-4a4c-aa04-c0d9031894f5)
 

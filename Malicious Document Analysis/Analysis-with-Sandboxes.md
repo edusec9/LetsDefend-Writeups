@@ -103,8 +103,7 @@ Y por ultimo guarda el archivo descargado en la carpeta temporal del sistema (%T
 Por lo que la respuesta es: `6LeGwKmrm.jar`.
 
 ---
-
-- Al finalizar con el ultimo reto del curso me dieron la siguiente Certificacion:
+### Al finalizar con el ultimo reto del curso me dieron la siguiente Certificacion:
 
 ![Screenshot From 2025-01-18 19-08-41](https://github.com/user-attachments/assets/272dfc67-11c6-470d-bc43-44a67f5b4bee)
 
